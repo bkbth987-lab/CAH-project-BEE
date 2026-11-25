@@ -13,7 +13,7 @@ body{
     width:100%;
     height:100vh;
 
-    background:url("resource1121/Home.webp") center center/cover no-repeat;
+    background:url("resource1164/Home.webp") center center/cover no-repeat;
 
     position:relative;
 }
@@ -387,7 +387,7 @@ section{
     box-shadow:0 5px 15px rgba(0,0,0,.08);
 }
 .testimonial{
-    background:url("resource1121/16.webp") center/cover;
+    background:url("resource1164/16.webp") center/cover;
     padding:250px 8% 80px;
 }
 
